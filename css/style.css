@@ -116,7 +116,7 @@ code, pre {
     padding: 40px;
     z-index: 100;
     justify-self: flex-end;
-    animation: slideInFromLeft 1s ease-in;
+    animation: slideInFromRight 1s ease-in;
 }
 
 .showcase-form .form-control {
